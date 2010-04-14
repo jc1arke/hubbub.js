@@ -10,7 +10,7 @@ function Hub() {
 }
 
 Hub.prototype = {
-    userAgent: "hub.js (+http://github.com/greut/hub.js/)",
+    userAgent: "hubbub.js (+http://github.com/greut/hubbub.js/)",
     verifyModes: ["sync","async"],
     constructor: Hub,
     call: function(req, res) {

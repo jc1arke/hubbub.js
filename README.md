@@ -1,6 +1,6 @@
-Hub.js is an in-memory minimalistic PubSubHubBub server. It fails at some tests
-against the PubSubHubBub test-suite and will forward the whole Atom file it
-got, not knowing what got changed (which is pretty bad).
+Hubbub.js is an in-memory minimalistic PubSubHubBub server. It fails at some 
+tests against the PubSubHubBub test-suite and will forward the whole Atom file 
+it got, not knowing what got changed (which is pretty bad).
 
 For hacking purposes only, I'd say.
 
